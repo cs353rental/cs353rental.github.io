@@ -9,3 +9,5 @@ A web based platform for managing a car rental company.
 - Hassam Abdullah - 21701610
 
 ## Reports
+- Project Proposal Report
+- [E/R Diagram](https://cs353rental.github.io/resources/CS353_group-15_ER.svg)
