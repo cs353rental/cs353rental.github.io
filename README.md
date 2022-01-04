@@ -13,3 +13,5 @@ A web based platform for managing a car rental company.
 - [E/R Diagram](/resources/CS353_group-15_ER.svg)
 - [Design Report](/resources/DesignReport_Group15_CarRental.pdf)
 - [Updated E/R Diagram](/resources/CS353_group-15_revised_ER.drawio.svg)
+- [Final Report](/resources/FinalReport_Group15_CarRental.pdf)
+- [Finalized E/R Diagram](/resources/CS353_group-15_finalized_ER.drawio.svg)
